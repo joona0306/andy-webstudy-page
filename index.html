@@ -6,12 +6,14 @@
   <title>반응형 웹페이지 및 SEO적용 실습</title>
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="css/searchbar.css" />
+  <link rel="stylesheet" href="css/modal.css" />
   <!-- isotope -->
   <script src="js/isotope.pkgd.min.js"></script>
   <!-- imagesloaded -->
   <script src="js/imagesloaded.pkgd.min.js"></script>
   <!-- js -->
   <script src="js/script.js" defer></script>
+  <script src="js/modal.js" defer></script>
  </head>
  <body>
   <div class="wrap">
@@ -26,7 +28,7 @@
      <div class="searchbar">
       <input
        type="text"
-       placeholder="프로젝트 검색 (예: 웹퍼블리싱, ㅇㅍㅂㄹㅅ)"
+       placeholder="검색 (예: 웹퍼블리싱 또는 ㅇㅍㅂㄹㅅ)"
        class="search-input"
       />
       <div class="search-btn">
@@ -85,14 +87,27 @@
    </main>
   </div>
 
+  <!-- floating button -->
   <div class="fixed-btn-wrap">
    <div class="go-top-btn">
     <img src="images/arrow-up.svg" alt="맨위로" />
    </div>
    <div class="to-home-btn">
     <a href="index.html">
-     <img src="images/list.svg" alt="포트폴리오 목록" />
+     <img src="images/house-solid.svg" alt="포트폴리오 목록" />
     </a>
+   </div>
+  </div>
+
+  <!-- modal -->
+  <div id="modal">
+   <div class="content">
+    <img src="images/p1.jpg" alt="" />
+   </div>
+   <div class="text">
+    <h2>제목</h2>
+    <p>설명</p>
+    <span>CLOSE</span>
    </div>
   </div>
  </body>
