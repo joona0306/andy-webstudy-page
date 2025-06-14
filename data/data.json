@@ -1,182 +1,182 @@
 [
- {
-  "id": 20,
-  "imgSrc": "images/p20.jpg",
-  "title": "스무 번째 웹퍼블리싱 작업물",
-  "desc": "스무 번째 작업에 대한 설명입니다. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem magni exercitationem ipsa fugit, aspernatur similique tempora cupiditate delectus dolor illo ea sit possimus sapiente facere distinctio perferendis harum aperiam amet!",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "web"
- },
- {
-  "id": 19,
-  "imgSrc": "images/p19.jpg",
-  "title": "열아홉 번째 상세페이지 작업물",
-  "desc": "열아홉 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "detail"
- },
- {
-  "id": 18,
-  "imgSrc": "images/p18.jpg",
-  "title": "열여덟 번째 타이포 작업물",
-  "desc": "열여덟 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "typho"
- },
- {
-  "id": 17,
-  "imgSrc": "images/p17.jpg",
-  "title": "열일곱 번째 웹퍼블리싱 작업물",
-  "desc": "열일곱 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "web"
- },
- {
-  "id": 16,
-  "imgSrc": "images/p16.jpg",
-  "title": "열여섯 번째 상세페이지 작업물",
-  "desc": "열여섯 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "detail"
- },
- {
-  "id": 15,
-  "imgSrc": "images/p15.jpg",
-  "title": "열다섯 번째 상세페이지 작업물",
-  "desc": "열다섯 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "detail"
- },
- {
-  "id": 14,
-  "imgSrc": "images/p14.jpg",
-  "title": "열네 번째 타이포 작업물",
-  "desc": "열네 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "typho"
- },
- {
-  "id": 13,
-  "imgSrc": "images/p13.jpg",
-  "title": "열세 번째 상세페이지 작업물",
-  "desc": "열세 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "detail"
- },
- {
-  "id": 12,
-  "imgSrc": "images/p12.jpg",
-  "title": "열두 번째 웹퍼블리싱 작업물",
-  "desc": "열두 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "web"
- },
- {
-  "id": 11,
-  "imgSrc": "images/p11.jpg",
-  "title": "열한 번째 웹퍼블리싱 작업물",
-  "desc": "열한 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "web"
- },
- {
-  "id": 10,
-  "imgSrc": "images/p10.jpg",
-  "title": "열 번째 상세페이지 작업물",
-  "desc": "열 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "detail"
- },
- {
-  "id": 9,
-  "imgSrc": "images/p9.jpg",
-  "title": "아홉 번째 타이포 작업물",
-  "desc": "아홉 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "typho"
- },
- {
-  "id": 8,
-  "imgSrc": "images/p8.jpg",
-  "title": "여덟 번째 상세페이지 작업물",
-  "desc": "여덟 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "detail"
- },
- {
-  "id": 7,
-  "imgSrc": "images/p7.jpg",
-  "title": "일곱 번째 상세페이지 작업물",
-  "desc": "일곱 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "detail"
- },
- {
-  "id": 6,
-  "imgSrc": "images/p6.jpg",
-  "title": "여섯 번째 웹퍼블리싱 작업물",
-  "desc": "여섯 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "web"
- },
- {
-  "id": 5,
-  "imgSrc": "images/p5.jpg",
-  "title": "다섯 번째 타이포 작업물",
-  "desc": "다섯 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "typho"
- },
- {
-  "id": 4,
-  "imgSrc": "images/p4.jpg",
-  "title": "네 번째 웹퍼블리싱 작업물",
-  "desc": "네 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "web"
- },
- {
-  "id": 3,
-  "imgSrc": "images/p3.jpg",
-  "title": "세 번째 웹퍼블리싱 작업물",
-  "desc": "세 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "web"
- },
- {
-  "id": 2,
-  "imgSrc": "images/p2.jpg",
-  "title": "두 번째 상세페이지 작업물",
-  "desc": "두 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "even",
-  "kindOfWork": "detail"
- },
- {
-  "id": 1,
-  "imgSrc": "images/p1.jpg",
-  "title": "첫 번째 타이포 작업물",
-  "desc": "첫 번째 작업에 대한 설명입니다.",
-  "createdAt": "2025.00.00",
-  "oddToEven": "odd",
-  "kindOfWork": "typho"
- }
+  {
+    "id": 20,
+    "imgSrc": "images/p20.jpg",
+    "title": "스무 번째 웹퍼블리싱 작업물",
+    "desc": "스무 번째 작업에 대한 설명입니다. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem magni exercitationem ipsa fugit, aspernatur similique tempora cupiditate delectus dolor illo ea sit possimus sapiente facere distinctio perferendis harum aperiam amet!",
+    "createdAt": "2025.00.00",
+    "oddToEven": "even",
+    "kindOfWork": "web"
+  },
+  {
+    "id": 19,
+    "imgSrc": "images/p19.jpg",
+    "title": "열아홉 번째 상세페이지 작업물",
+    "desc": "열아홉 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "odd",
+    "kindOfWork": "detail"
+  },
+  {
+    "id": 18,
+    "imgSrc": "images/p18.jpg",
+    "title": "열여덟 번째 타이포 작업물",
+    "desc": "열여덟 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "even",
+    "kindOfWork": "typho"
+  },
+  {
+    "id": 17,
+    "imgSrc": "images/p17.jpg",
+    "title": "열일곱 번째 웹퍼블리싱 작업물",
+    "desc": "열일곱 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "odd",
+    "kindOfWork": "web"
+  },
+  {
+    "id": 16,
+    "imgSrc": "images/p16.jpg",
+    "title": "열여섯 번째 상세페이지 작업물",
+    "desc": "열여섯 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "even",
+    "kindOfWork": "detail"
+  },
+  {
+    "id": 15,
+    "imgSrc": "images/p15.jpg",
+    "title": "열다섯 번째 상세페이지 작업물",
+    "desc": "열다섯 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "odd",
+    "kindOfWork": "detail"
+  },
+  {
+    "id": 14,
+    "imgSrc": "images/p14.jpg",
+    "title": "열네 번째 타이포 작업물",
+    "desc": "열네 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "even",
+    "kindOfWork": "typho"
+  },
+  {
+    "id": 13,
+    "imgSrc": "images/p13.jpg",
+    "title": "열세 번째 상세페이지 작업물",
+    "desc": "열세 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "odd",
+    "kindOfWork": "detail"
+  },
+  {
+    "id": 12,
+    "imgSrc": "images/p12.jpg",
+    "title": "열두 번째 웹퍼블리싱 작업물",
+    "desc": "열두 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "even",
+    "kindOfWork": "web"
+  },
+  {
+    "id": 11,
+    "imgSrc": "images/p11.jpg",
+    "title": "열한 번째 웹퍼블리싱 작업물",
+    "desc": "열한 번째 작업에 대한 설명입니다.",
+    "createdAt": "2025.00.00",
+    "oddToEven": "odd",
+    "kindOfWork": "web"
+  },
+  {
+    "id": 10,
+    "imgSrc": "images/p10.jpg",
+    "title": "이벤트",
+    "desc": "## 이벤트\n\n## 이벤트란?\n\n- 웹 페이지에서 발생하는 사건을 의미\n- 이벤트를 처리하는 함수를 event handler 또는 event listner라고 함\n\n## click 이벤트\n\n```html\n<button onclick=\"handleClick()\">클릭</button>\n<button id=\"btn\">클릭</button>\n<button id=\"btn2\">클릭</button>\n\n<!-- js -->\n<script>\n // 이벤트 핸들러\n function handleClick() {\n  console.log(\"click 이벤트 설정\");\n }\n\n // 이벤트 리스너\n document.querySelector(\"#btn\").addEventListener(\"click\", handleClick);\n document.querySelector(\"#btn2\").addEventListener(\"click\", function () {\n  console.log(\"이벤트 함수 실행\");\n });\n</script>\n```\n\n## change 이벤트\n\n- select, input\n\n```html\n<!DOCTYPE html>\n<html lang=\"ko\">\n <head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>이벤트</title>\n </head>\n <body>\n  <label for=\"input1\">change 이벤트 핸들러</label>\n  <input type=\"text\" id=\"input1\" onchange=\"handleChange(event)\" /> <br /><br />\n  <label for=\"input2\">input 이벤트 리스너</label>\n  <input type=\"text\" id=\"input2\" /> <br /><br />\n\n  <h3>change 이벤트 리스너</h3>\n  <label for=\"check1\">체크1</label>\n  <input type=\"checkbox\" id=\"check1\" value=\"check1\" />\n  <label for=\"check2\">체크2</label>\n  <input type=\"checkbox\" id=\"check2\" value=\"check2\" />\n  <label for=\"check3\">체크3</label>\n  <input type=\"checkbox\" id=\"check3\" value=\"check3\" /> <br /><br />\n\n  <select name=\"\" id=\"select\">\n   <option value=\"f1\">FAMLISITE-1</option>\n   <option value=\"f2\">FAMLISITE-2</option>\n   <option value=\"f3\">FAMLISITE-3</option>\n  </select>\n\n  <!-- js -->\n  <script>\n   // change 이벤트 핸들러\n   function handleChange(e) {\n    const inputValue = e.target.value;\n    console.log(inputValue);\n   }\n\n   // input 이벤트 리스너\n   document.querySelector(\"#input2\").addEventListener(\"input\", (e) => {\n    const value = e.target.value;\n    console.log(value);\n   });\n\n   document.querySelectorAll(\"input[type='checkbox']\").forEach((checkbox) => {\n    checkbox.addEventListener(\"change\", checkedValue);\n   });\n\n   function checkedValue(e) {\n    console.log(e.target.value);\n   }\n\n   document.querySelector(\"#select\").addEventListener(\"change\", (e) => {\n    console.log(e.target.value);\n   });\n  </script>\n </body>\n</html>\n```",
+    "createdAt": "2025.06.15",
+    "oddToEven": "even",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 9,
+    "imgSrc": "images/p9.jpg",
+    "title": "DOM (문서 객체 모델)",
+    "desc": "## DOM (문서 객체 모델)\n\n## 문서 객체 모델\n\n- HTML 문서의 구조화 된 표현\n- DOM 구조에 접근하여 HTML 문서의 구조, 스타일, 내용 등을 변경\n- DOM은 웹 페이지, 즉 HTML 문서에 접근하여 문서를 읽고 조작 할 수 있는 API(App Programming Interface)를 제공하는 인터페이스라고 할 수 있다.\n- DOM은 자바스크립트 언어와는 독립적인 구조를 가지고 있다.\n\n### DOM의 구조\n\n- HTML요소: element\n- 속성: attribute\n- 내용: content\n- 웹 페이지 요소들과 요소들에 관련된 정보를 트리 형태로 가지고 있음\n- 모든 HTML 요소들은 객체로 정의 된다.\n- 자바스크립트에서는 DOM에서 제공하는 메서드(method)와 프로퍼티(property)를 통하여 HTML 요소들에 접근하거나 요소들을 수정할 수 있다.\n\n### DOM 메서드와 프로퍼티\n\n```js\n// 웹 페이지에 있는 <p> 요소의 내용 변경\n// document 객체의 getElementById(\"show\")은 웹 페이지에서 아이디 \"show\"\n// 즉, <p> 요소를 가져옴\n// innerHtml에 \"안녕!\"을 설정함으로써\n// 단락 <p>의 내용을 \"안녕!\"으로 변경\n// DOM method: getElementById()\n// DOM property: innerHTML\ndocument.getElementById(\"show\").innerHTML = \"안녕!\";\n\n// 문서가 로드될 때 h1 요소를 생성하는 예시\n// 1. window 객체의 onload() 메서드는\n// 자바스크립트 문서가 로드될 때 자동으로 호출\nwindow.onload = function () {\n // 2. h1 요소를 생성하여 변수 element에 저장\n let element = document.createElement(\"h1\");\n // 3. \"글 제목\" 텍스트 노드를 생성하여 변수 text에 저장\n let text = document.createTextNode(\"글 제목\");\n // 4. element 요소에 text를 추가\n element.appendChild(text);\n // 5. document 객체의 body 요소에 element를 추가\n document.body.appendChild(element);\n};\n```\n\n## HTML 요소 선택\n\n- 자바스크립트에서 웹페이지에 있는 HTML 요소를 추가, 수정, 삭제\n- 제일 먼저 페이지 내에 존재하는 해당 요소를 선택\n\n- 아이디(id) 이용\n- 태그 이름(tag name) 이용\n- 클래스 이름(class name) 이용\n- CSS 선택자(selector) 이용\n\n### 아이디(id)로 요소 선택\n\n- getElementById() 메서드\n\n```html\n<p id=\"p1\">안녕하세요.</p>\n<!-- 1. 버튼을 클릭하면 changeColor('red')함수가 호출 -->\n<!-- 이 때 'red'가 changeColor()의 매개변수 new_color에 복사 -->\n<button onclick=\"changeColor('red');\">빨강</button>\n<!-- 2. 버튼을 클릭하면 changeColor('blue')함수가 호출 -->\n<!-- 이 때 'blue'가 changeColor()의 매개변수 new_color에 복사 -->\n<button onclick=\"changeColor('blue');\">파랑</button>\n\n<!-- js -->\n<script>\n function changeColor(newColor) {\n  // 3. Document 객체의 getElementById(\"p1\")은 아이디 p1\n  // 즉 <p> 요소를 반환하여 elem에 저장\n  const elem = document.getElementById(\"p1\");\n  // 4. <p>요소의 속성인 style 객체의 color 속성을 의미\n  // 여기에 new_color를 저장함으로써 \"안녕하세요.\" 글자가 빨강,파랑으로 변경\n  elem.style.color = newColor;\n }\n</script>\n```\n\n### 태그 이름(tag name)으로 요소 선택\n\n- getElementsByTagName() 메서드\n\n```html\n<div id=\"parent\">\n <p>안녕1</p>\n <p>안녕2</p>\n <p>안녕3</p>\n <p>안녕4</p>\n <p>안녕5</p>\n</div>\n<p id=\"show\"></p>\n\n<!-- js -->\n<script>\n const parent = document.getElementById(\"parent\");\n // 1. 객체 parent가 가리키는 <div>요소 내에 있는 모든 <p>요소의 콜렉션(collection)객체를 반환\n // 따라서 y에 저장된 요소들은 인덱스를 통해 접근할 수 있음\n const children = parent.getElementsByTagName(\"p\");\n console.log(children);\n\n // 2. 세번째 <p>요소를 의미\n children[2].style.color = \"red\";\n</script>\n```\n\n### 클래스 이름으로 요소 선택하기\n\n- getElementsByClassName() 메서드\n\n```html\n<div id=\"parent\">\n <p>안녕1</p>\n <p>안녕2</p>\n <p class=\"a\">안녕3</p>\n <p class=\"a\">안녕4</p>\n <p class=\"a\">안녕5</p>\n</div>\n\n<!-- js -->\n<script>\n const parent = document.getElementById(\"parent\");\n // 1. 객체 x가 가리키는 아이디 parent 요소 내에서 클래스 a로 정의된 요소\n // \"안녕3\", \"안녕4\", \"안녕5\"의 콜렉션을 가져와서 y에 저장\n const children = parent.getElementsByClassName(\"a\");\n console.log(children);\n\n // 2. 객체 children가 가리키는 세 개의 요소에 접근하기 위해 For문 사용\n // 배열이 아닌 HTMLCollection 객체라서 forEach 메서드 사용할 수 없다.\n for (let i = 0; i < children.length; i++) {\n  children[i].style.color = \"blue\";\n }\n // [...children].forEach((child) => {\n //  child.style.color = \"blue\";\n // });\n</script>\n```\n\n### CSS 선택자로 요소 선택하기\n\n- querySelector(), querySelectorAll()\n\n```html\n<div id=\"parent\">\n <p>안녕1</p>\n <p>안녕2</p>\n <p class=\"a\">안녕3</p>\n <p class=\"a\">안녕4</p>\n <p class=\"a\">안녕5</p>\n</div>\n\n<!-- js -->\n<script>\n // 1. p.a는 <p>요소의 클래스 a를 의미\n // querySelector()메서드는 CSS선택자가 선택한 요소 중 첫 번째 요소 반환\n // \"안녕3\"\n const p = document.querySelector(\"p.a\");\n // 2. style객체의 배경색을 red\n p.style.backgroundColor = \"red\";\n</script>\n```\n\n```html\n<h1 id=\"title\">글 제목</h1>\n<p>단락1</p>\n<ul>\n <li>항목1</li>\n <li class=\"item\">항목2</li>\n <li class=\"item\">항목3</li>\n <li class=\"item\">항목4</li>\n</ul>\n\n<!-- js -->\n<script>\n // 1. h1#title은 아이디가 title인 <h1>요소를 선택\n const x = document.querySelectorAll(\"h1#title\");\n // 2. 페이지 내 모든 <p>요소를 선택\n const y = document.querySelectorAll(\"p\");\n // 3. 클래스 이름이 item인 <li>요소를 선택\n const z = document.querySelectorAll(\"li.item\");\n\n // 4. querySelectorAll()메서드가 반환한 요소들인 x,y,z 즉 NodeList 객체는\n // 인덱스를 통하여 접근 가능\n // x와 y는 하나의 요소로 구성되지만 콜렉션 구조를 가지기 때문에 x[0], y[0]으로 사용\n // z[1]은 두 번째 요소인 \"항목3\"을 의미\n x[0].style.backgroundColor = \"red\";\n y[0].style.backgroundColor = \"green\";\n z[1].style.backgroundColor = \"blue\";\n</script>\n```\n\n## HTML 요소 내용과 속성\n\n### 요소 내용 가져오기\n\n- 자바스크립트에서 HTML 요소의 내용을 가져오는 데는\n- innerHTML\n\n```js\nconst htmlTag = document.querySelector(\"#p1\");\n// 아이디 p1의 내용(HTML 코드 포함)을 가져옴\nalert(htmlTag.innerHTML);\n```\n\n- innerText\n\n```js\nconst text = document.querySelector(\"#p1\");\n// 아이디 p1 요소의 내용에서 순수한 텍스트만 가져옴\nalert(text.innerText);\n```\n\n### 요소 속성 변경\n\n- HTML 요소의 속성(attribute) 값 변경\n\n```html\n<img id=\"image\" src=\"images/gallery-2.png\" alt=\"gallery-2\" />\n<button id=\"imageChangeBtn\">이미지 변경</button>\n\n<!-- js -->\n<script>\n const image = document.querySelector(\"#image\");\n const imageChangeBtn = document.querySelector(\"#imageChangeBtn\");\n\n imageChangeBtn.addEventListener(\"click\", () => {\n  image.src = \"images/gallery-3.png\";\n });\n</script>\n```\n\n### 요소 CSS 변경\n\n```js\nconst image = document.querySelector(\"#image\");\nconst imageChangeBtn = document.querySelector(\"#imageChangeBtn\");\n\nimageChangeBtn.addEventListener(\"click\", () => {\n image.src = \"images/gallery-3.png\";\n // 요소 CSS 변경하기\n image.style.width = \"50px\";\n image.style.border = \"1px solid red\";\n});\n```\n\n## HTML 폼 검증\n\n## DOM 노드\n\n- DOM 트리의 가장 기본이 되는 HTML 요소, 속성, 텍스트 등은 모두 노드(node)에 속한다.\n- 자바스크립트에서는 DOM을 이용하여 DOM 트리에 포함된 모든 노드에 접근하고 노드의 추가, 생성, 삭제 등의 조작을 할 수 있다.\n\n### 노드의 종류\n\n- 요소 노드(element node): body, p, div 등 모든 HTML 요소를 의미\n- 속성 노드(attribute node): HTML 요소의 속성을 의미\n- 텍스트 노드(text node): HTML 문서에 있는 모든 텍스트를 의미\n- 문서 노드(document node): HTML 문서 전체를 의미, DOM의 루트 노드(root node)\n- 주석 노드(comment node): HTML 모든 주석을 의미\n\n### 노드 추가하기\n\n```html\n<div id=\"box\">\n <p>단락1</p>\n <p>단락2</p>\n</div>\n\n<!-- js -->\n<script>\n // 1. 새로운 노드 생성\n // <p> 노드를 생성해서 변수에 저장\n const pElement = document.createElement(\"p\");\n // 2. 텍스트 노드 생성\n const textNode = document.createTextNode(\"새로운 단락!\");\n // 3. 생성한 텍스트 노드를 <p> 노드의 자식으로 추가\n pElement.appendChild(textNode);\n // 4. 아이디 box 요소 안에 <P> 노드를 자식으로 추가\n document.querySelector(\"#box\").appendChild(pElement);\n</script>\n```\n\n### 노드 삽입하기\n\n```js\n// 1. 새로운 노드 생성\n// <p> 노드를 생성해서 변수에 저장\nconst pElement = document.createElement(\"p\");\n// 2. 텍스트 노드 생성\nconst textNode = document.createTextNode(\"새로운 단락!\");\n// 3. 생성한 텍스트 노드를 <p> 노드의 자식으로 추가\npElement.appendChild(textNode);\n// 4. 아이디 box 요소 안에 p2 요소 앞에 새로운 요소 삽입\nconst p2 = document.querySelector(\"#p2\");\ndocument.querySelector(\"#box\").insertBefore(pElement, p2);\n```\n\n### 노드 삭제하기\n\n```js\nconst p2 = document.querySelector(\"#p2\");\n// 노드 삭제하기\np2.remove();\n```\n\n### 노드 변경하기\n\n```js\nconst pElement = document.createElement(\"p\");\nconst textNode = document.createTextNode(\"새로운 단락!\");\npElement.appendChild(textNode);\n\nconst p1 = document.querySelector(\"#p1\");\nconst box = document.querySelector(\"#box\");\n\nbox.replaceChild(pElement, p1);\n```",
+    "createdAt": "2025.06.15",
+    "oddToEven": "odd",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 8,
+    "imgSrc": "images/p8.jpg",
+    "title": "Date 객체",
+    "desc": "## Date 객체\n\n## 현재 날짜와 시간\n\n```js\n// 현재 날짜와 시간\nconst now = new Date();\n\ndocument.querySelector(\"#show\").innerHTML = now;\n```\n\n## 날짜 가져오기\n\n- getFullYear()\n- getMonth()\n- getDate()\n\n```js\n// 날짜 가져오기\nconst year = now.getFullYear();\nconst month = now.getMonth() + 1;\nconst date = now.getDate();\n```\n\n## 시간 가져오기\n\n- getHours()\n- getMinutes()\n- getSeconds()\n\n```js\n// 시간 가져오기\nconst hour = now.getHours();\nconst min = now.getMinutes();\nconst sec = now.getSeconds();\n```\n\n## 날짜와 시간 설정하기\n\n```js\n// 날짜와 시간 설정하기\n// 연, 월, 일, 시, 분, 초\nconst a = new Date(2025, 11, 25, 10, 30, 25);\n// 연, 월, 일, 시, 분\nconst b = new Date(1998, 8, 13, 18, 20);\n// 연, 월, 일\nconst c = new Date(2000, 1, 20);\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "even",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 7,
+    "imgSrc": "images/p7.jpg",
+    "title": "배열 (array)",
+    "desc": "## 배열 array\n\n- 여러 값을 하나의 변수에 저장할 수 있게 해주는 특별한 변수\n\n## 배열의 생성\n\n```js\n// 배열의 생성\nconst works = [\n \"상세페이지\",\n \"웹사이트 리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션 포트폴리오\",\n];\n\nlet text = \"\";\ntext += `${works} <br>`;\ntext += `${works[0]} <br>`;\ntext += `${works[1]} <br>`;\ntext += `${works[2]} <br>`;\ntext += `${works[3]} <br>`;\ntext += `${works[4]} <br>`;\n\n// Array()메서드와 new 연산자를 이용한 배열 생성\nconst projects = new Array(\"팀작업\", \"앱디자인\", \"웹디자인\", \"그외\");\n\ndocument.querySelector(\"#show\").innerHTML = projects;\n```\n\n## 배열 요소 변환/추가/삭제\n\n- join(), push(), pop(), shift()\n\n### join() 메서드\n\n- 배열을 문자열로 변환하는 데 사용\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\nconst str1 = works.join();\nconst str2 = works.join(\"/\");\nconst str3 = works.join(\"\");\n\nlet text = \"\";\ntext += `${str1} <br>`;\ntext += `${str2} <br>`;\ntext += `${str3} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### push() 메서드\n\n- 배열의 끝에 새로운 요소를 추가하는 데 사용\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n];\n\nconst returnValue = works.push(\"노션포트폴리오\");\n\nlet text = \"\";\ntext += `${works} <br>`;\n// push() 메서드는 배열의 길이를 반환한다.\ntext += `반환값: ${returnValue} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### pop() 메서드\n\n- 배열의 마지막 요소를 삭제하는데 사용\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\nconst returnValue = works.pop();\n\nlet text = \"\";\ntext += `${works} <br>`;\n// 제일 마지막 요소인 \"노션포트폴리오\"를 삭제하고 삭제된 요소인 \"노션포트폴리오\" 반환\ntext += `반환값: ${returnValue} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### shift() 메서드\n\n- 배열의 첫 요소를 삭제하는데 사용\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\nconst returnValue = works.shift();\n\nlet text = \"\";\ntext += `${works} <br>`;\ntext += `반환값: ${returnValue} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### splice() 메서드\n\n- 배열에 요소를 추가하거나 삭제할 때 사용\n\n```js\n// 배열의 생성\n// Array()메서드와 new 연산자를 이용한 배열 생성\n// const projects = new Array(\"팀작업\", \"앱디자인\", \"웹디자인\", \"그외\");\n\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\n// 1. 인덱스 2인 요소 \"클론코딩\"부터 3개의 요소를 삭제하고 \"배너디자인\" 삽입\n// const returnValue = works.splice(2, 3, \"배너디자인\");\n\n// 2. 인덱스 2인 요소 \"클론코딩\"부터 0개의 요소를 삭제하고 인덱스 2에 \"배너디자인\" 삽입\n// const returnValue = works.splice(2, 0, \"배너디자인\");\n\n// 3. 인덱스 2인 요소 부터 1개의 요소 \"클론코딩\" 삭제\nconst returnValue = works.splice(2, 1);\n\nlet text = \"\";\ntext += `${works} <br>`;\ntext += `반환값: ${returnValue} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n## 배열 요소 추출/검색\n\n### indexOf() 메서드\n\n- 배열에서 특정 문자열의 위치, 즉 인덱스 값을 반환\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\nconst index1 = works.indexOf(\"웹사이트리디자인\");\n// \"포트폴리오사이트\"를 검색할 때 인덱스 2의 위치에서 시작\nconst index2 = works.indexOf(\"포트폴리오사이트\", 2);\n// 배열에서 \"배너디자인\"이 존재하지 않기 때문에 -1을 반환\nconst index3 = works.indexOf(\"배너디자인\");\n\nlet text = \"\";\ntext += `${index1} <br>`;\ntext += `${index2} <br>`;\ntext += `${index3} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### includes() 메서드\n\n- 배열에서 특정 요소의 존재 여부를 파악하는데 사용\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\n// \"배너디자인\"은 배열에 존재 -> false\nconst result1 = works.includes(\"배너디자인\");\n// \"클론코딩\"은 배열에 존재 -> true\nconst result2 = works.includes(\"클론코딩\");\n\nlet text = \"\";\ntext += `${result1} <br>`;\ntext += `${result2} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### slice() 메서드\n\n- 인덱스를 이용하여 특정 요소를 추출하는데 사용\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"노션포트폴리오\",\n];\n\n// 인덱스 1부터 인덱스 3 사이(3은 포함하지 않음)의 요소\nconst arr1 = works.slice(1, 3);\n// 인덱스 2부터 끝까지의 요소\nconst arr2 = works.slice(2);\n// 끝에서 3번째 요소 부터 2번째 요소\nconst arr3 = works.slice(-3, -1);\n\nlet text = \"\";\ntext += `${arr1} <br>`;\ntext += `${arr2} <br>`;\ntext += `${arr3} <br>`;\ntext += `${works} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### find() 메서드\n\n- 배열에서 특정 요소를 찾는 콜백 함수(callback function)를 통해 전달하여 조건에 해당하는 첫 번째 요소 값을 반환\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"클론코딩\",\n \"노션포트폴리오\",\n];\n\nconst arr = works.find((work) => {\n if (work !== \"클론코딩\") {\n  console.log(work);\n  return;\n }\n return work;\n});\n\n// function getWork(work) {\n//  if (work !== \"클론코딩\") {\n//   console.log(work);\n//   return;\n//  }\n//  return work;\n// }\n\nlet text = \"\";\ntext += `${arr} <br>`;\ntext += `${works} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### forEach() 메서드\n\n- 배열 각 요소에 대해 매개변수로 설정된 콜백 함수를 실행\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"클론코딩\",\n \"노션포트폴리오\",\n];\n\nlet text = \"\";\n\nworks.forEach((item, index) => {\n text += `${index}: ${item} <br>`;\n});\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### map() 메서드\n\n- 배열 각 요소에 대해 매개변수로 설정된 콜백 함수를 실행하여 얻어진 요소들로 구성된 새로운 배열을 반환\n\n```js\nconst works = [\n \"상세페이지\",\n \"웹사이트리디자인\",\n \"클론코딩\",\n \"포트폴리오사이트\",\n \"클론코딩\",\n \"노션포트폴리오\",\n];\n\nlet htmlTags = \"\";\n\nconst personalWorks = works.map((work, index) => {\n const card = `\n    <div class=\"card\">\n    <a href=\"#\">${index}: ${work}</a>\n    </div>`;\n\n return card;\n});\n\nhtmlTags = personalWorks.join(\"\");\n\ndocument.querySelector(\"#cardWrap\").innerHTML = htmlTags;\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "odd",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 6,
+    "imgSrc": "images/p6.jpg",
+    "title": "객체 (object)",
+    "desc": "## 객체 object\n\n```js\nconst project = {\n title: \"제목\",\n desc: \"설명\",\n published: \"날짜\",\n};\n```\n\n## 프로퍼티 property\n\n```js\nconst member = {\n userName: \"홍길동\",\n age: 30,\n userId: \"kdhong\",\n // 중첩 객체\n // 객체 member의 프로퍼티 hobby는 값으로\n // 객체(프로퍼티: hobby1, hobby2, hobby3)를 가지고 있다.\n hobby: {\n  hobby1: \"게임\",\n  hobby2: \"탁구\",\n  hobby3: \"축구\",\n },\n};\n\n// memeber.email에 \"kdh@example.com\"값을 할당함으로써\n// 객체 member에 email 프로퍼티를 추가한다.\nmember.email = \"kdh@example.com\";\n\n// 객체 memeber의 프로퍼티 age를 삭제\n// 키워드 delete는 해당 프로퍼티 자체와 값을 삭제한다.\ndelete member.age;\n\nlet text = \"\";\n\nfor (property in member) {\n text += `키: ${property}, 값: ${member[property]} <br>`;\n}\n\ntext += member.hobby.hobby1;\ntext += member.hobby.hobby2;\ntext += member.hobby.hobby3;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n## 메서드 method\n\n- 프로퍼티는 객체에 소속된 변수\n- 메서드는 객체에 소속된 함수\n- 프로퍼티는 객체의 상태를 정의\n- 메서드는 객체의 동작을 정의한다고 할 수 있다.\n\n```js\nconst dog = {\n name: \"댕댕이\",\n species: \"믹스\",\n color: \"알록달록\",\n age: 3,\n // 메서드 intro\n // intro: function () {},\n intro() {\n  return `나의 이름은 ${this.name}이고, 나이는 ${this.age}살 입니다.`;\n },\n};\n\ndog.getColor = function () {\n return `색깔은 ${this.color}입니다.`;\n};\n\ndocument.querySelector(\"#show\").innerHTML = dog.getColor();\n```\n\n## 생성자 함수 constructor function\n\n- 생성자 함수란 일반 함수와 기능적인 차이는 없다.\n- 그러나 일반 함수와는 달리 생성자 함수는 new 연산자와 함께 자바스크립트에서 객체를 생성하기 위해 사용\n- 생성자 함수를 정의할 때에는 일반 함수와 구분하기 위해 첫 글자를 대문자로 시작\n\n```js\n// 생성자 함수의 객체 생성 예\n// 1. 생성자 함수 Member는 세 개의 매개변수 userId, userName, age를 가진다.\n// function Member(userId, userName, age) {\n//  // 키워드 this는 생성자 함수로 생성되는 객체 자신을 의미\n//  this.userId = userId;\n//  this.userName = userName;\n//  this.age = age;\n// }\n\n// 객체 단위로 묶어서 전달\n// function Member(options) {\n//  // 키워드 this는 생성자 함수로 생성되는 객체 자신을 의미\n//  this.userId = options.userId;\n//  this.userName = options.userName;\n//  this.age = options.age;\n// }\n\n// 구조 분해 할당\nfunction Member({ userId, userName, age }) {\n // 키워드 this는 생성자 함수로 생성되는 객체 자신을 의미\n this.userId = userId;\n this.userName = userName;\n this.age = age;\n // 생성자 함수의 메서드\n this.getUserName = function () {\n  return `나의 이름은 ${this.userName}입니다!`;\n };\n}\n\n// 2. new 연산자를 이용하여 생성자 함수 호출 시 인수를 전달 받는데 사용한다.\nconst member1 = new Member(\"kdhong\", \"홍길동\", 25);\nconst member2 = new Member({\n userId: \"kdkim\",\n userName: \"김길동\",\n age: 10,\n});\n\nlet text = \"\";\ntext += member2.userId;\ntext += member2.userName;\ntext += member2.age;\ntext += member2.getUserName();\n// for (property in member2) {\n//  text += `<li>${member2[property]}</li>`;\n// }\n\ndocument.getElementById(\"show\").innerHTML = text;\n```\n\n## 프로토타입\n\n- 모든 자바스크립트 객체들은 프로토타입 객체(prototype object)로부터 프로퍼티와 메서드를 상속받는다.\n\n```js\nfunction Member(userId, userName, age) {\n this.userId = userId;\n this.userName = userName;\n this.age = age;\n}\n\n// 모든 자바스크립트 객체는 프로토타입으로부터\n// 프로퍼티와 메서드를 상속받는다.\n// 프로토타입을 이용하면 생성자 함수에 의해 생성된 모든 객체들에\n// 새로운 프로퍼티와 메서드를 추가할 수 있다.\nMember.prototype.company = \"삼성\";\nMember.prototype.getUserName = function () {\n return `이름은 ${this.userName}입니다.`;\n};\n\nconst member1 = new Member(\"kdhong\", \"홍길동\", 25);\n\nlet text = \"\";\ntext += member1.company + \"<br>\";\ntext += member1.getUserName();\n\ndocument.querySelector(\".show\").innerHTML = text;\n```\n\n## 클래스\n\n- 클래스(class)는 객체를 생성하기 위한 템플릿(template)\n- 자바스크립트에서 클래스는 프로토타입을 이용하여 만들어졌지만\n- 프로토타입을 사용한 객체지향 프로그래밍과는 문법이 다르고 사용방법 또한 다르다.\n- 자바스크립에서 클래스는 함수와 유사한 구조를 가지며\n- 클래스는 특별한 함수라고 볼 수 있다.\n\n### 클래스의 기본 구조\n\n```js\n// 자바스립트의 클래스\nclass Member {\n // 1. 생성자 constructor는 new 연산자에 의해 자동으로 호출\n // 객체의 기본 상태를 설정하는 데 사용\n constructor(userId, userName, age) {\n  this.userId = userId;\n  this.userName = userName;\n  this.age = age;\n }\n // 2. 클래스 메서드\n getUserName() {\n  return `이름은 ${this.userName}입니다.`;\n }\n}\n\nconst member1 = new Member(\"kdhong\", \"홍길동\", 30);\nconsole.log(member1);\n\nlet text = \"\";\ntext += `${member1.userId} <br>`;\ntext += `${member1.userName} <br>`;\ntext += `${member1.age} <br>`;\ntext += `${member1.getUserName()} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n### 클래스 상속\n\n- 클래스 상속은 다른 클래스에 있는 프로퍼티와 메서드를 상속받아 사용하는 것을 말함\n- 하나의 클래스에서 부모 클래스가 가지고 있는 자원과 기능을 확장하여 사용할 수 있음\n- 클래스 상속에는 키워 extends를 사용\n\n```js\n// 자바스립트의 클래스\nclass Member {\n // 1. 생성자 constructor는 new 연산자에 의해 자동으로 호출\n // 객체의 기본 상태를 설정하는 데 사용\n constructor(userId, userName, age) {\n  this.userId = userId;\n  this.userName = userName;\n  this.age = age;\n }\n // 2. 클래스 메서드\n getUserName() {\n  return `이름은 ${this.userName}입니다.`;\n }\n}\n\n// 클래스 상속\nclass Student extends Member {\n constructor(userId, userName, age, school) {\n  super(userId, userName, age);\n  this.school = school;\n }\n intro() {\n  return `${this.getUserName()} ${this.school} 학생입니다.`;\n }\n}\n\nconst member1 = new Member(\"kdhong\", \"홍길동\", 30);\nconst student1 = new Student(\"kdkim\", \"김길동\", 25, \"그린컴퓨터학원\");\n\nlet text = \"\";\ntext += `${member1.userId} <br>`;\ntext += `${member1.userName} <br>`;\ntext += `${member1.age} <br>`;\ntext += `${member1.getUserName()} <br>`;\n\ndocument.querySelector(\"#show\").innerHTML = student1.intro();\n```\n\n### 정적 메서드\n\n- 정적 메서드(static method)는 클래스 자체에서 정의\n- 정적 메서드는 객체를 통해 호출되는 것이 아니라 클래스에서 호출하여 사용하는 메서드\n\n```js\nclass Member {\n constructor(name, age) {\n  this.name = name;\n  this.age = age;\n }\n getName() {\n  return \"나의 이름은 \" + this.name + \"입니다.\";\n }\n // 정적 메서드\n static getCountry() {\n  return \"한국인입니다.\";\n }\n}\nconst mem1 = new Member(\"홍길동\", 30);\n\nlet text = \"\";\ntext += mem1.getName() + \"<br>\";\ntext += Member.getCountry(); // 정적 메서드는 클래스 자체에 속하는 메서드임\n\ndocument.getElementById(\"show\").innerHTML = text;\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "even",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 5,
+    "imgSrc": "images/p5.jpg",
+    "title": "함수 (function)",
+    "desc": "## 함수 정의와 호출 \n\n ```js\n// 함수 정의\nfunction hello() {\n console.log(\"안녕하세요!\");\n}\n\n// 함수 호출\nhello();\n```\n\n## 매개변수 parameter, 인수 argument\n\n```js\nfunction hello(text) {\n console.log(text);\n}\n\nhello(\"Hello!!\");\nhello(\"안녕!\");\nhello(\"안녕하세요!\");\nhello(19);\n```\n\n## 익명 함수\n\n```js\nfunction sayHello(callBack) {\n callBack();\n console.log(\"콜백 함수가 실행되었습니다!\");\n}\n\nsayHello(() => {\n console.log(\"안녕!\");\n});\n```\n\n## 자바스크립트 스코프 scope\n\n- 스코프(scope)는 \"범위\"라는 뜻을 가진 용어\n- 변수에 접근할 수 있는 유효 범위를 의미\n\n- 전역 스코프(global scope)\n\n  - 하나의 프로그램 내 전체 영역에서 사용 가능\n  - 전역 스코프에서 사용되는 변수를 전역 변수(global variable)라고 함\n\n- 함수 스코프(function scope)\n\n  - 함수 내에서만 사용 가능\n  - 함수 스코프에서 사용되는 변수를 지역 변수(local variable)라고 함\n\n- 블록 스코프(block scope)\n\n  - 블록({})내에서 사용 가능\n  - 특정 블록({}) 내에서 let 이나 const로 선언한 변수는 블록 외부에서 사용할 수 없음\n\n  ### 전역 스코프(global scope)\n\n  - 전역 스코프에서 선언된 전역 변수는 프로그램 내 어디서든 접근 가능\n\n  ```js\n  let x = 10;\n\n  function fnc() {\n   console.log(x);\n  }\n\n  fnc();\n  console.log(x);\n  ```\n\n### 함수 스코프 (function scope)\n\n- 함수 스코프에서 선언된 변수를 지역 변수\n- 변수가 선언된 해당 함수 스코프에서만 접근 가능\n\n```js\nfunction fnc() {\n let x = 10;\n console.log(x);\n}\n\nfnc();\nconsole.log(x);\n```\n\n### 블록 스코프(block scope)\n\n- 블록 스코프에서 선언된 변수는 해당 블록 내에서만 사용 가능\n\n```js\nfunction fnc() {\n if (true) {\n  let x = 10; // 변수 x는 if문 내, 즉 블록 내부에서 선언\n }\n console.log(x); // 블록 외부에서는 변수 x에 접근 하지 못함\n}\n\nfnc();\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "odd",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 4,
+    "imgSrc": "images/p4.jpg",
+    "title": "조건문",
+    "desc": "## if~\n\n- 기본 형태\n\n```js\nif(조건식){\n 문장;\n ...\n}\n```\n\n## if ~ else ~\n\n- 기본 형태\n\n```js\nif(조건식){\n 문장;\n ...\n}else{\n 문장;\n ...\n}\n```\n\n## if ~ else if ~ else ~\n\n- 기본 형태\n\n```js\nif(조건식1){\n 문장;\n ...\n}else if(조건식2){\n 문장;\n ...\n}else{\n 문장;\n ...\n}\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "even",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 3,
+    "imgSrc": "images/p3.jpg",
+    "title": "반복문",
+    "desc": "- 특정 코드를 반복해서 실행 for(for in, for of), while, do while\n\n## for 문\n\n- 기본 형태\n\n```js\nfor(초기값; 조건식; 증가 또는 감소;){\n 문장;\n ...\n}\n```\n\n```js\n// for의 조건식이 true인 동안 문장들을 반복실행\n// 1. i의 값을 1로 초기화 let i = 1;\n// 2. 조건식 1 <= 3 true, 1 출력\n// 3. i의 값이 1 증가 i++, i의 값이 2가 됨\n// 4. 조건식 2 <= 3 true, 2 출력\n// 5. i의 값이 1 증가 i++, i의 값이 3이 됨\n// 6. 조건식 3 <= 3 true, 3 출력\n// 7. i의 값이 1 증가 i++, i의 값이 4가 됨\n// 8. 조건식 4 <= 3 false, for 루프를 빠져나감\nfor (let i = 1; i <= 3; i++) {\n console.log(i);\n}\n```\n\n```js\n// for 문, 배열, 템플릿 문자열을 이용하여\n// 웹페이지 글자에 색을 설정하는 프로그램\nconst colors = [\n \"red\",\n \"orange\",\n \"yellow\",\n \"green\",\n \"blue\",\n \"navy\",\n \"purple\",\n \"violet\"\n];\n\nlet text = \"\";\nfor (let i = 0; i < colors.length; i++) {\n text += `<p style=\"color: ${colors[i]}\">안녕하세요!</p>`;\n}\nconsole.log(text);\ndocument.querySelector(\"#show\").innerHTML = text;\n```\n\n```js\nconst projects = [\n {\n  \"projectName\": \"웹배너 디자인\",\n  \"published\": \"2025. 04. 21\",\n  \"description\": \"웹 배너 디자인 작업입니다.\",\n  \"imgSrc\": \"https://picsum.photos/400/300?random=1\"\n },\n {\n  \"projectName\": \"제품 상세페이지 디자인\",\n  \"published\": \"2025. 04. 24\",\n  \"description\": \"제품 상세페이지 디자인 작업입니다.\",\n  \"imgSrc\": \"https://picsum.photos/400/300?random=2\"\n }\n];\n\nlet tempTags = \"\";\nfor (let i = 0; i < projects.length; i++) {\n tempTags += `<li>\n    <a href=\"#\">\n     <img src=\"${projects[i].imgSrc}\" alt=\"이미지\" />\n     <h2>프로젝트명: ${projects[i].projectName}</h2>\n     <p>프로젝트 설명: ${projects[i].description}</p>\n     <span>업로드 날짜: ${projects[i].published}</span>\n    </a>\n   </li>`;\n}\ndocument.querySelector(\".projects\").innerHTML = tempTags;\n```\n\n## for in 문\n\n- 기본 형태\n\n```js\nfor(변수 in 객체){\n 문장;\n ...\n}\n```\n\n```js\nconst project = {\n title: \"제품 상세페이지\",\n description: \"실제 작업한 상세페이지에 대한 컨셉 및 내용 설명입니다.\",\n createdAt: \"0000. 00. 00\",\n imgSrc: \"https://picsum.photos/300/200?random=1\"\n};\n\n// for in 문\n// 객체 내 각 요소들을 반복해서 읽어와\n// 그 키를 변수에 저장하는 식으로 반복 루프 진행\nfor (let property in project) {\n console.log(project[property]);\n}\n```\n\n## for of 문\n\n- 기본 형태\n\n```js\nfor(변수 of 배열){\n 문장;\n ...\n}\n```\n\n```js\n// for of 문\nconst cardWrap = document.getElementById(\"cardWrap\");\nlet htmlTag = \"\";\n\nconst projects = [\n {\n  title: \"첫 번째 작업\",\n  description: \"실제 작업한 작업물 컨셉 및 내용 설명입니다.\",\n  createdAt: \"0000. 00. 00\",\n  imgSrc: \"https://picsum.photos/300/200?random=1\"\n },\n {\n  title: \"두 번째 작업\",\n  description: \"실제 작업한 작업물 컨셉 및 내용 설명입니다.\",\n  createdAt: \"0000. 00. 00\",\n  imgSrc: \"https://picsum.photos/300/200?random=2\"\n }\n];\n\nfor (let item of projects) {\n htmlTag += `\n     <div class=\"card\">\n      <div class=\"thumbnail\">\n       <img src=\"${item.imgSrc}\" alt=\"작업물 썸네일\" />\n      </div>\n      <div class=\"text-wrap\">\n       <h2>${item.title}</h2>\n       <p>${item.description}</p>\n       <span>${item.createdAt}</span>\n      </div>\n    </div>`;\n}\n\ncardWrap.innerHTML = htmlTag;\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "odd",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 2,
+    "imgSrc": "images/p2.jpg",
+    "title": "자료형 (data type)",
+    "desc": "- 숫자(number)\n- 문자열(string)\n- 부울(boolean)\n- Null\n- Undefined\n- 객체(object)\n- 그외...Bigint, 심볼(symbol)\n\n### 숫자(number)\n\n- 정수(integer)\n- 소수점이 있는 부동소수점 숫자(floating point number)\n\n### 문자열(string)\n\n- 하나 이상의 문자를 표현하는 데 사용\n- 문자열에서는 문자들을 큰 따옴표\"\"나 작은 따옴표''로 감싸야한다.\n\n### 부울(boolean)\n\n- true와 false 값만 존재\n\n### Undefined 와 Null\n\n- 변수가 값을 가지고 있지 않으면 그 값은 undefined\n- 유효하지 않은 데이터 null\n\n### 객체(object)\n\n- 객체는 프로퍼티와 메서드로 구성\n- 프로퍼티(속성)는 키와 값의 쌍\n- 메서드(함수)는 기능\n\n## 연산자 operator\n\n### 할당 연산자\n\n- 할당(assignment)연산자는 데이터나 변수 값을 변수에 저장, 즉 메모리 공간에 할당하는 역할\n\n```js\nlet a = 10,\nb = 20,\nc = 30,\nd = 40,\ne = 50;\nlet f = \"안녕\";\n\na += 10;\nf += \"하세요!\";\nconsole.log(a);\nconsole.log(f);\n```\n\n### 비교 연산자\n\n```js\nlet a = 3,\nb = \"3\",\nc = 5,\nd = 3;\n\nconsole.log(a == b);\nconsole.log(a === b);\nconsole.log(a != b);\nconsole.log(a !== b);\nconsole.log(a > c);\nconsole.log(a < c);\nconsole.log(a >= c);\nconsole.log(a <= d);\n```\n\n### 논리 연산자\n\n```txt\n&& AND 두 조건이 모두 true일 경우에만 최종결과 true\n|| OR 두 조건 중 하나만 true가 되어도 최종결과 true\n! NOT 결과가 true인 경우 false, 반대로 false인 경우 true\n```",
+    "createdAt": "2025.06.14",
+    "oddToEven": "even",
+    "kindOfWork": "javascript"
+  },
+  {
+    "id": 1,
+    "imgSrc": "images/p1.jpg",
+    "title": "데이터 형과 연산자",
+    "desc": "## variable(변수) \n ### 변수란?\n- 데이터가 컴퓨터 메모리에 저장되는 주소\n- 변수를 선언하고 할당한다.\n### 키워드\n- var 이제 잘 안씀\n- let\n- const 상수\n### 변수 네이밍 규칙\n- 변수 이름에는 영어, 숫자, 밑줄, $ 사용\n- 숫자로 시작하면 안된다.\n- 대소문자 구분, 카멜케이스 사용이 일반적",
+    "createdAt": "2025.06.14",
+    "oddToEven": "odd",
+    "kindOfWork": "javascript"
+  }
 ]

@@ -212,15 +212,16 @@ img {
 .card:hover .inner img {
   filter: grayscale(0) saturate(1.1);
 }
-.card .inner h2 {
-  font-size: 1.6rem;
+.card .inner > h2 {
+  font-size: 1.8rem;
   color: #333;
   margin-top: 1.6rem;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
 }
-.card .inner p {
+.card .inner .desc {
   font-size: 1.4rem;
   color: #777;
+  margin-bottom: 1rem;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -228,12 +229,21 @@ img {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
 }
+.card .inner .desc h2 {
+  font-size: 1.4rem;
+  color: #777;
+  /* margin-bottom: 1rem; */
+}
+.card .inner .createdAt {
+  font-size: 1.2rem;
+  color: #777;
+}
 
 /* fixed button wrap */
 .fixed-btn-wrap {
   position: fixed;
   bottom: 30px;
-  right: 20px;
+  right: 40px;
   display: flex;
   flex-direction: column;
   gap: 2rem;
