@@ -245,8 +245,8 @@ img {
 /* fixed button wrap */
 .fixed-btn-wrap {
   position: fixed;
-  bottom: 30px;
-  right: 40px;
+  bottom: 2.4rem;
+  right: 1.6rem;
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -255,8 +255,8 @@ img {
 /* to home button */
 .to-home-btn {
   position: relative;
-  width: 60px;
-  height: 60px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
   background-color: #fff;
   opacity: 0.8;
@@ -283,8 +283,8 @@ img {
 /* go top button */
 .go-top-btn {
   position: relative;
-  width: 60px;
-  height: 60px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
   background-color: #fff;
   opacity: 0.8;
