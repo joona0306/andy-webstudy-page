@@ -22,14 +22,14 @@
 }
 #modal .text::-webkit-scrollbar {
   display: block;
-  width: 12px;
+  width: 1rem;
 }
 #modal .text::-webkit-scrollbar-track {
   background: #333;
 }
 #modal .text::-webkit-scrollbar-thumb {
   background: #666;
-  border-radius: 6px;
+  border-radius: 0.5rem;
 }
 #modal .text::-webkit-scrollbar-thumb:hover {
   background: #888;
