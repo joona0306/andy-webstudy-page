@@ -217,6 +217,9 @@ img {
   color: #333;
   margin-top: 1.6rem;
   /* margin-bottom: 1rem; */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .card .inner .desc {
   font-size: 1.4rem;

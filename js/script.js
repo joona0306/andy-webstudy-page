@@ -65,7 +65,7 @@ function renderCardList(dataList) {
     <div class="card ${card.oddToEven} ${card.kindOfWork}">
      <div class="inner">
       <img src="${card.imgSrc}" alt="${card.title}" />
-      <h2>${card.title}</h2>
+      <h2>${card.id}. ${card.title}</h2>
       <div class="desc">${marked.parse(card.desc)}</div>
       <div class="createdAt">${card.createdAt}</div>
      </div>
