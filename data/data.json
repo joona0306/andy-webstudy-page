@@ -38,56 +38,56 @@
   {
     "id": 16,
     "imgSrc": "images/p16.jpg",
-    "title": "열여섯 번째 상세페이지 작업물",
-    "desc": "열여섯 번째 작업에 대한 설명입니다.",
-    "createdAt": "2025.00.00",
+    "title": "인터랙티브",
+    "desc": "## 인터랙티브 웹을 위한 CSS\n\n## 콘텐츠 모양 자유롭게 변형\n\n### transform\n\n- 2D\n- scale() 요소의 크기를 확대 또는 축소, 현재 크기의 비율을 기준으로 1보다 크면 확대, 1보다 작으면 축소\n- skew() 요소를 x축 또는 y축으로 비틀어서 변형, 원하는 각도를 지정하여 기울기를 조절\n- translate() 요소를 현재 위치 기준에서 x축 또는 y축으로 이동\n- rotate() 요소를 회전, 원하는 각도를 지정하여 회전\n\n- 3D\n- rotateX(), rotateY() 요소를 x축 또는 y축으로 회전\n- translateZ() 요소를 z축으로 이동\n\n- 그외\n- perspective: px; 3D효과가 적용된 요소가 입체감 있게 보이도록 부모 요소에 적용, 속성 값이 작을수록 3D 요소의 왜곡이 심하게 나타나고, 값이 클수록 완만해진다.\n- transform-style: preserve-3d; 3D효과가 적용된 요소에 모션 처리를 하면 해당 3D 효과가 풀리는데 이 때 부모 요소에 적용하면 3D효과를 유지시킬 수 있다.\n- transform-origin: 가로축 세로축; 중심축을 변경\n\n## 전환효과\n\n### transition\n\n- 사용자의 특정 동작에 반응하는 인터랙션을 기반\n- transition: 속성명 전환시간 가속도 지연시간;\n- transition-property: 속성명; 전환효과를 줄 CSS 속성명 지정\n- transition-duration: 지속시간(초); 전환효과 지속 시간\n- transition-timing-function: 가속도; linear, ease, ease-in, ease-out, ease-in-out, cubic-bezier;\n- transition-delay: 지연시간(초); 지연시간 이후 전화효과 나타남\n\n## 자동으로 움직이는 애니메이션 효과\n\n- animation 이름 진행시간 가속도 지연시간 반복횟수;\n- animation-name 애니메이션 이름\n- animation-duration 지속시간(초)\n- animation-timing-function 가속도\n- animation-delay 지연시간(초)\n- animation-iteration-count 반복횟수\n- animation-play-state running | paused\n- @keyframes\n  - 애니메이션의 시작과 끝을 등록하여 사용자 모션을 등록\n  - 0%(from)는 시작 지점, 100%(to)는 끝 지점\n  - 중간 지점은 여러 개 추가할 수 있다.\n  - 단계별로 동작 방식을 지정해서 특정 이름을 붙여 키프레임을 등록\n\n## 벡터 이미지 파일 제어하기\n\n- .svg\n\n## 화면 너비에 따라 웹페이지 디자인 변경(반응형페이지)\n\n- 미디어쿼리\n- @media screen and (max-width: ;){\n  선택자{}\n  선택자{}\n  선택자{}\n  }\n",
+    "createdAt": "2025.06.15",
     "oddToEven": "even",
-    "kindOfWork": "detail"
+    "kindOfWork": "css"
   },
   {
     "id": 15,
     "imgSrc": "images/p15.jpg",
-    "title": "열다섯 번째 상세페이지 작업물",
-    "desc": "열다섯 번째 작업에 대한 설명입니다.",
-    "createdAt": "2025.00.00",
+    "title": "다양한 그래픽 효과",
+    "desc": "## 다양한 그래픽 효과 적용\n\n## box-shadow, text-shadow\n\n- 요소의 그림자 만들기\n- box-shadow: 가로축 세로축 퍼짐정도 색상;\n- text-shadow: 가로축 세로축 퍼짐정도 색상;\n\n## border-radius\n\n- 모서리 둥글게\n- border-raidus: px | %;\n\n## linear-gradient, radial-gradient\n\n- 그레디언트 적용\n- linear-gradient(방향, 색상1, 색상2)\n- radial-gradient(색상1, 색상2)\n\n## filter\n\n- 특수 효과 사용하기\n- blur 요소의 흐림 효과\n- brightness 요소의 밝기\n- contrast 요소의 명도 대비\n- grayscale 요소의 흑백 지정\n- hue-rotate 요소의 색상 단계\n- invert 요소의 색상 반전\n- saturate 요소의 채도\n- sepia 요소의 갈색 톤 단계 조절\n",
+    "createdAt": "2025.06.15",
     "oddToEven": "odd",
-    "kindOfWork": "detail"
+    "kindOfWork": "css"
   },
   {
     "id": 14,
     "imgSrc": "images/p14.jpg",
-    "title": "열네 번째 타이포 작업물",
-    "desc": "열네 번째 작업에 대한 설명입니다.",
-    "createdAt": "2025.00.00",
+    "title": "폰트 스타일",
+    "desc": "## 폰트 스타일링 하기\n\n## 텍스트 줄 간격 바꾸기\n\n- line-height: 실숫값 | 픽셀값;\n- 실숫값: 폰트 사이즈 기준으로 실수 배율\n- 픽셀값: 고정된 px 단위로 지정\n\n## 텍스트 정렬 방향 지정하기\n\n- text-align: left | center | right | justify;\n\n## 텍스트 자간 지정하기\n\n- letter-spacing: px;\n",
+    "createdAt": "2025.06.15",
     "oddToEven": "even",
-    "kindOfWork": "typho"
+    "kindOfWork": "css"
   },
   {
     "id": 13,
     "imgSrc": "images/p13.jpg",
-    "title": "열세 번째 상세페이지 작업물",
-    "desc": "열세 번째 작업에 대한 설명입니다.",
-    "createdAt": "2025.00.00",
+    "title": "플렉스 박스",
+    "desc": "## flex box\n\n## 부모 요소에 flex 적용하기\n\n- display: flex | inline-flex;\n\n  - flex 자신은 블록 속성을 유지하면서 자식 요소에 flex 환경 설정\n  - inlin-flex 자신을 인라인 속성으로 변경하면서 자식 요소에 flex 환경 설정\n\n- flex-direction: row | column | row-reverse | column-reverse;\n\n  - row 기본값, flex의 기본축을 가로로 지정\n  - column flex의 기본축을 세로로 지정\n\n- flex-wrap: nowrap | wrap;\n\n  - nowrap 자식 요소의 줄 바꿈을 하지 않음\n  - wrap 자식 요소의 줄 바꿈을 함\n\n- flex-flow: row wrap;\n\n### display\n\n- 자식 요소의 배치 방법 지정\n\n## 자식 요소 정렬하기\n\n### justify-content 주축으로 정렬\n\n- justify-content: flex-start | flex-end | center | space-between | space-around;\n- flex-start가 기본값\n\n### align-items, align-content 교차축으로 정렬\n\n- align-items: flex-start | flex-end | center | stretch;\n- stretch가 기본값\n\n## 요소의 여백 비율 지정하기\n\n- 플렉스 아이템(자식요소)에 지정\n- flex-grow, flex-shrink\n- flex\n",
+    "createdAt": "2025.06.15",
     "oddToEven": "odd",
-    "kindOfWork": "detail"
+    "kindOfWork": "css"
   },
   {
     "id": 12,
     "imgSrc": "images/p12.jpg",
-    "title": "열두 번째 웹퍼블리싱 작업물",
-    "desc": "열두 번째 작업에 대한 설명입니다.",
-    "createdAt": "2025.00.00",
+    "title": "레이아웃",
+    "desc": "## 웹 페이지의 레이아웃 구성하기\n\n## CSS 초기화\n\n- 크로스브라우징\n- 웹브라우저 기본 스타일을 내가 쓴 CSS로 덮어써서 초기화\n- normalize.css 또는 reset.css\n- 개발자가 직접 작성\n\n## position - 요소를 배치하기\n\n- relative: 적용된 요소의 현재 위칫값을 기준으로 상대 위치 지정\n- absolute: 부모 요소의 특정 구간을 기준으로 절대 위치를 지정\n- fixed: 웹 브라우저를 기준으로 절대 위치를 지정\n\n## z-index\n\n- 겹쳐 있는 요소의 z축 순서 지정\n- z-index: 순서값;\n- 값이 큰 요소가 위로 올라감\n\n## opacity\n\n- 요소의 투명도 설정\n",
+    "createdAt": "2025.06.15",
     "oddToEven": "even",
-    "kindOfWork": "web"
+    "kindOfWork": "css"
   },
   {
     "id": 11,
     "imgSrc": "images/p11.jpg",
-    "title": "열한 번째 웹퍼블리싱 작업물",
-    "desc": "열한 번째 작업에 대한 설명입니다.",
-    "createdAt": "2025.00.00",
+    "title": "박스 모델",
+    "desc": "## 웹 페이지에서 영역별 크기 정하기\n\n## 너비와 높이 지정하기\n\n- width, height: px | % | vw | vh;\n\n## 바깥쪽 여백 지정하기\n\n- margin: px | % | vw | vh;\n\n## 안쪽 여백 지정하기\n\n- padding: px | % | vw | vh;\n\n## 테두리의 형태 지정하기\n\n- border-width: px; 테두리의 굵기\n- border-style: solid | dashed | dotted; 테두리의 모양\n- border-color: 색상명 | HEX | rgb; 테두리 색상\n- border: width style color;\n\n## 블록 요소와 인라인 요소 태그\n\n- 블록 요소\n  - h1~h6, p, ol, ul, dl, div, header, footer, section, article, aside, nav\n  - 줄을 자동으로 바꿈\n  - 너비와 높이를 지정할 수 있음\n  - 너비를 지정하지 않으면 부모 요소의 너빗값을 100% 상속받음\n  - 블록 요소와 인라인 요소 모두 묶을 수 있음\n- 인라인 요소\n  - stron, em, a, span\n  - 자동 줄 바꿈 되지않고 옆으로 나열\n  - 너비와 높이를 지정할 수 없음\n  - 인라인 태그를 사용한 텍스트의 크기가 해당 요소의 크기가 됨\n  - 인라인 요소만 묶을 수 있음\n",
+    "createdAt": "2025.06.15",
     "oddToEven": "odd",
-    "kindOfWork": "web"
+    "kindOfWork": "css"
   },
   {
     "id": 10,
