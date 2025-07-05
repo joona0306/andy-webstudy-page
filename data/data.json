@@ -19,7 +19,7 @@
   },
   {
     "id": 18,
-    "imgSrc": "images/p18.jpg",
+    "imgSrc": "images/media-tag.png",
     "title": "비디오, 오디오 태그",
     "desc": "## 비디오, 오디오 태그 - 멀티미디어 콘텐츠 삽입\n\n## audio 태그\n\n- 오디오 파일 재생\n- controls 컨트롤 패널 생성\n- autoplay 자동재생\n- loop 무한 반복 재생\n- preload 재생하기 전 파일을 미리 불러옴\n\n## video 태그\n\n- 동영상 파일 재생\n- controls 컨트롤 패널\n- autoplay 자동재생\n- loop 무한 반복재생\n- muted 음소거\n- preload\n- poster 초기 화면에 보여 줄 이미지 지정\n",
     "createdAt": "2025.06.15",
@@ -28,7 +28,7 @@
   },
   {
     "id": 17,
-    "imgSrc": "images/p17.jpg",
+    "imgSrc": "images/list-tag.png",
     "title": "목록 태그",
     "desc": "## 목록 태그\n\n- 메뉴를 깔끔하게 정리\n\n## ul 순서가 없는 목록\n\n- ul 태그를 사용할 때는 자식 태그인 li 태그를 꼭 같이 써야한다.\n\n```html\n<ul>\n <li>\n  <a>MENU-1</a>\n  <ul>\n   <li>SUBMENU 1-1</li>\n   <li>SUBMENU 1-2</li>\n   <li>SUBMENU 1-3</li>\n  </ul>\n </li>\n <li></li>\n <li></li>\n <li></li>\n</ul>\n```\n\n## ol 순서가 있는 목록\n\n```html\n<ol>\n <li></li>\n <li></li>\n <li></li>\n</ol>\n```\n",
     "createdAt": "2025.06.15",
