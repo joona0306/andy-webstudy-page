@@ -163,17 +163,17 @@
   },
   {
     "id": 2,
-    "imgSrc": "images/p2.jpg",
-    "title": "자료형 (data type)",
-    "desc": "- 숫자(number)\n- 문자열(string)\n- 부울(boolean)\n- Null\n- Undefined\n- 객체(object)\n- 그외...Bigint, 심볼(symbol)\n\n### 숫자(number)\n\n- 정수(integer)\n- 소수점이 있는 부동소수점 숫자(floating point number)\n\n### 문자열(string)\n\n- 하나 이상의 문자를 표현하는 데 사용\n- 문자열에서는 문자들을 큰 따옴표\"\"나 작은 따옴표''로 감싸야한다.\n\n### 부울(boolean)\n\n- true와 false 값만 존재\n\n### Undefined 와 Null\n\n- 변수가 값을 가지고 있지 않으면 그 값은 undefined\n- 유효하지 않은 데이터 null\n\n### 객체(object)\n\n- 객체는 프로퍼티와 메서드로 구성\n- 프로퍼티(속성)는 키와 값의 쌍\n- 메서드(함수)는 기능\n\n## 연산자 operator\n\n### 할당 연산자\n\n- 할당(assignment)연산자는 데이터나 변수 값을 변수에 저장, 즉 메모리 공간에 할당하는 역할\n\n```js\nlet a = 10,\nb = 20,\nc = 30,\nd = 40,\ne = 50;\nlet f = \"안녕\";\n\na += 10;\nf += \"하세요!\";\nconsole.log(a);\nconsole.log(f);\n```\n\n### 비교 연산자\n\n```js\nlet a = 3,\nb = \"3\",\nc = 5,\nd = 3;\n\nconsole.log(a == b);\nconsole.log(a === b);\nconsole.log(a != b);\nconsole.log(a !== b);\nconsole.log(a > c);\nconsole.log(a < c);\nconsole.log(a >= c);\nconsole.log(a <= d);\n```\n\n### 논리 연산자\n\n```txt\n&& AND 두 조건이 모두 true일 경우에만 최종결과 true\n|| OR 두 조건 중 하나만 true가 되어도 최종결과 true\n! NOT 결과가 true인 경우 false, 반대로 false인 경우 true\n```",
+    "imgSrc": "images/datatype-operator.png",
+    "title": "자료형 (data type), 연산자 (operator)",
+    "desc": "## 자료형(data type) \n- 숫자(number)\n- 문자열(string)\n- 부울(boolean)\n- Null\n- Undefined\n- 객체(object)\n- 그외...Bigint, 심볼(symbol)\n\n### 숫자(number)\n\n- 정수(integer)\n- 소수점이 있는 부동소수점 숫자(floating point number)\n\n### 문자열(string)\n\n- 하나 이상의 문자를 표현하는 데 사용\n- 문자열에서는 문자들을 큰 따옴표\"\"나 작은 따옴표''로 감싸야한다.\n\n### 부울(boolean)\n\n- true와 false 값만 존재\n\n### Undefined 와 Null\n\n- 변수가 값을 가지고 있지 않으면 그 값은 undefined\n- 유효하지 않은 데이터 null\n\n### 객체(object)\n\n- 객체는 프로퍼티와 메서드로 구성\n- 프로퍼티(속성)는 키와 값의 쌍\n- 메서드(함수)는 기능\n\n## 연산자 operator\n\n### 할당 연산자\n\n- 할당(assignment)연산자는 데이터나 변수 값을 변수에 저장, 즉 메모리 공간에 할당하는 역할\n\n```js\nlet a = 10,\nb = 20,\nc = 30,\nd = 40,\ne = 50;\nlet f = \"안녕\";\n\na += 10;\nf += \"하세요!\";\nconsole.log(a);\nconsole.log(f);\n```\n\n### 비교 연산자\n\n```js\nlet a = 3,\nb = \"3\",\nc = 5,\nd = 3;\n\nconsole.log(a == b);\nconsole.log(a === b);\nconsole.log(a != b);\nconsole.log(a !== b);\nconsole.log(a > c);\nconsole.log(a < c);\nconsole.log(a >= c);\nconsole.log(a <= d);\n```\n\n### 논리 연산자\n\n```txt\n&& AND 두 조건이 모두 true일 경우에만 최종결과 true\n|| OR 두 조건 중 하나만 true가 되어도 최종결과 true\n! NOT 결과가 true인 경우 false, 반대로 false인 경우 true\n```",
     "createdAt": "2025.06.14",
     "oddToEven": "even",
     "kindOfWork": "javascript"
   },
   {
     "id": 1,
-    "imgSrc": "images/p1.jpg",
-    "title": "데이터 형과 연산자",
+    "imgSrc": "images/variable.png",
+    "title": "변수",
     "desc": "## variable(변수) \n ### 변수란?\n- 데이터가 컴퓨터 메모리에 저장되는 주소\n- 변수를 선언하고 할당한다.\n### 키워드\n- var 이제 잘 안씀\n- let\n- const 상수\n### 변수 네이밍 규칙\n- 변수 이름에는 영어, 숫자, 밑줄, $ 사용\n- 숫자로 시작하면 안된다.\n- 대소문자 구분, 카멜케이스 사용이 일반적",
     "createdAt": "2025.06.14",
     "oddToEven": "odd",
